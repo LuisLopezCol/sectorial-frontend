@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/personalPortfolio",
+    "public": "./dist/personalPortfolio",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
       {
